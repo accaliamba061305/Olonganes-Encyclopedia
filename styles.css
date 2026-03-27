@@ -1,6 +1,11 @@
-h1 {
+body {
+    background-image: URL(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiU4len9NZ5LSXpSa-OzqMWePjxPGXbd6XBQ&s)
+}
+
+header {
     text-align: center;
     padding: 40px;
-    padding-color: #008B8B;
-    text-font: sans-serif, time-new-roman;
+    background-color: #008B8B; /* Đổi từ padding-color */
+    font-family: sans-serif, "Times New Roman"; /* Đổi từ text-font */
 }
+
